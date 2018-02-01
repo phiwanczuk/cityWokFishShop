@@ -1,0 +1,3 @@
+[submodule "build/cityWokFishShop"]
+	path = build/cityWokFishShop
+	url = https://github.com/phiwanczuk/cityWokFishShop
